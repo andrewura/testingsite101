@@ -1,20 +1,52 @@
 ---
 layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: Menu
+date: 2020-04-25T22:16:17.623Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+![](/static/img/qrnow-logo-03.svg)
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+# This is the test site.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+1. ## Grilled Peach & Summer Berries
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+2. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+3. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+4. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+5. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+6. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
+
+
+7. ## Grilled Peach & Summer Berries
+
+   Mixed greens, fresh pulled mozzarella, garden basil, Hawaiian sea salt,extra virgin olive oil
+
+   ### **€20.00**
